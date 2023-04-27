@@ -5,3 +5,7 @@
 Special thanks to [Stephen H. Westin](http://www.graphics.cornell.edu/~westin/) and his [vector test chart](https://www.graphics.cornell.edu/~westin/misc/res-chart.html) similar to ISO 12233
 
 
+## List of cameras
+
+- [GoPro Hero 960](https://en.wikipedia.org/wiki/GoPro#HD_HERO_960)  - my oldest working camera 
+- [Ausek 4K AT-Q80R](https://www.ausekcamera.com/products/action-camera/at-q63cr.html) - chipest action camera

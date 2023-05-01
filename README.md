@@ -11,3 +11,4 @@ Special thanks to [Stephen H. Westin](http://www.graphics.cornell.edu/~westin/) 
 - [Ausek 4K AT-Q80R](https://www.ausekcamera.com/products/action-camera/at-q63cr.html) - chipest action camera
 - [Samsung Galaxy S8](https://www.gsmarena.com/samsung_galaxy_s8-8161.php)
 - [Google Pixel 3XL](https://www.gsmarena.com/google_pixel_3_xl-9257.php)
+- [Blacberry Q5](https://www.gsmarena.com/blackberry_q5-5452.php) - 5 MP, f/2.4, 30mm (standard), AF

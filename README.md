@@ -16,4 +16,4 @@ Special thanks to [Stephen H. Westin](http://www.graphics.cornell.edu/~westin/) 
 | [Google Pixel 3XL](https://www.gsmarena.com/google_pixel_3_xl-9257.php) |  Sony IMX363 | 12.2MP, f/1.8, 28mm, 1/2.55", 1.4um, AF, OIS| |
 | [Google Pixel 6Pro](https://www.gsmarena.com/google_pixel_6_pro-10918.php) |  Samsung S5KGN1 | 50/12.5M(8160x6144/4080x3072), f/1.85, 25mm, 1/1.31", 1.2um(binning 2.4um), AF, OIS| FoV 82 |
 | [Google Pixel 6Pro](https://www.gsmarena.com/google_pixel_6_pro-10918.php) |  Sony IMX386 | 12M(3968x2976),f/2.2, 16mm, 1/2.8", 1.25um, AF,| |
-| [Google Pixel 6Pro](https://www.gsmarena.com/google_pixel_6_pro-10918.php) |  Sony IMX586 | 48/12M(8000x6000/4000x3000),f1.85, 104mm, 1/2", 0.8um(binning 1.64um), AF, OIS| |
+| [Google Pixel 6Pro](https://www.gsmarena.com/google_pixel_6_pro-10918.php) |  Sony IMX586 | 48/12M(8000x6000/4000x3000),f3.5, 104mm, 1/2", 0.8um(binning 1.64um), AF, OIS| |
